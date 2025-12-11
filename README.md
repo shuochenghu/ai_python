@@ -1,1 +1,1 @@
-# ai_python
+# 為初學者的AI Python
